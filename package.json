@@ -5,7 +5,10 @@
   "main": "server.js",
   "scripts": {
     "test": "jest --verbose",
-    "start": "nodemon server.js"
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "12.14.1"
   },
   "keywords": [],
   "author": "",

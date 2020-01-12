@@ -1,4 +1,4 @@
 {
   "jwtPrivateKey": "thanh",
-  "db": "mongodb+srv://thanhdhnt:Donga130@contactkeeper-uo0tn.mongodb.net/vidly_test?retryWrites=true&w=majority"
+  "db": ""
 }
